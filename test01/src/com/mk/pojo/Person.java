@@ -8,4 +8,5 @@ package com.mk.pojo;
  */
 public class Person {
     private String gender;
+	private String name;
 }
